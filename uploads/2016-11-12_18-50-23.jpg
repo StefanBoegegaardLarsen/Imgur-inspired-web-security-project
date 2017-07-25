@@ -1,0 +1,4 @@
+ÿØÿà JFIF  H H  ÿÛ C 		
+<?php
+	echo "This should not be possible In regards to Group 1";
+?>
